@@ -4,7 +4,7 @@
 
 - 🌱 I’m currently learning **[Natural Language Processing (NLP)](https://github.com/MECatherine/NLP-coursera)**
 
-- 💻 All of my projects are available at [https://github.com/liuhh02](https://github.com/MECatherine)
+- 💻 All of my projects are available at [https://github.com/MECatherine](https://github.com/MECatherine)
 
 - 💬 Reach me by *cathywhile@163.com*
 
