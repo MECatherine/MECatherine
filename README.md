@@ -5,7 +5,7 @@
 - 🌱 I’m currently learning **[Natural Language Processing (NLP)](https://github.com/MECatherine/NLP-coursera)**
 
 
-- 💻 All of my projects are available at [https://github.com/MECatherine](https://github.com/MECatherine)
+- 💻 All of my projects are available at [https://github.com/weiyh19c](https://github.com/weiyh19c)
 
 
 
