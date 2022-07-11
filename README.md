@@ -4,9 +4,17 @@
 
 - 🌱 I’m currently learning **[Natural Language Processing (NLP)](https://github.com/MECatherine/NLP-coursera)**
 
+
 - 💻 All of my projects are available at [https://github.com/MECatherine](https://github.com/MECatherine)
 
+
+
 - 💬 Reach me by *cathywhile@163.com*
+
+   
+     
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=MECatherine&show_icons=true&locale=en&langs_count=7&layout=compact&theme=vue&hide=html,scss,css" alt="MECatherine" /></p>
 
 <!---
 MECatherine/MECatherine is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
